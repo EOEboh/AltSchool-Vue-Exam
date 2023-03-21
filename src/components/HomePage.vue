@@ -12,7 +12,7 @@
     </transition>
     <transition name="slide" appear>
       <router-link to="/counter">
-        <button class="mt-3 btn btn-light">Get Started</button>
+        <button class="mt-3 btn btn-light">Start Counting</button>
       </router-link>
     </transition>
   </div>
@@ -22,7 +22,7 @@
 
 <style scoped>
 .grey {
-  color: rgb(211, 211, 211);
+  color: #f1ebeb;
 }
 .box {
   height: 100vh;
