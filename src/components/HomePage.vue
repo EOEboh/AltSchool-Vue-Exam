@@ -3,12 +3,10 @@
     class="grey text-light container-fluid bg-dark box d-flex flex-column text-center align-items-center justify-content-center"
   >
     <transition name="slide" appear>
-      <h1 class="grey fs-1 py-3">A Simple Counter App</h1>
+      <h1 class="grey fs-1 py-3">A Counter Manager App</h1>
     </transition>
     <transition name="slide" appear>
-      <p class="grey fs-5">
-        A simple tool for counting things and keeping track of numbers.
-      </p>
+      <p class="grey fs-5">Manage Your Numbers in the Most Efficient Way</p>
     </transition>
     <transition name="slide" appear>
       <router-link to="/counter">
